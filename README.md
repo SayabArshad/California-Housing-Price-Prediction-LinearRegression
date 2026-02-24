@@ -66,9 +66,9 @@ Predict the median house value for a custom input (based on the first sample).
 
 ```
 California-Housing-Price-Prediction-LinearRegression/
-│-- Predict House Prices with Linear Regression.py   # Main script
-│-- README.md                                          # Documentation
-│-- assets/                                            # Images for README
+│-- Predict House Prices with Linear Regression.py  
+│-- README.md                                         
+│-- assets/                                         
 │    ├── code.JPG
 │    └── output.JPG
 ```
